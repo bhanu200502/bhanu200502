@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanu200502" alt="bhanu200502" /></a> </p>
 
-- 🔭 I’m currently working on [Sign_Language_prediction_Hand_Gestures](https://github.com/bhanu200502/Sign_Language_prediction_Hand_Gestures.git)
-
 - 🌱 I’m currently learning **Flask,Tensorflow,opencv,MediaPipe**
-
-- 👯 I’m looking to collaborate on [deepfake_detector](https://github.com/bhanu200502/deepfake_detector.git)
-
-- 🤝 I’m looking for help with [Collabmeet](https://github.com/bhanu200502/CollabMeet.git)
 
 - 👨‍💻 All of my projects are available at [currently not.in](currently not.in)
 
